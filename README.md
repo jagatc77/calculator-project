@@ -19,6 +19,7 @@ Functions with return types and parameters
 Conditional logic (if-else statements)
 Input/output operations using cin and cout
 Basic float and integer handling
+
 💻 How to Run
 
 Clone the repository or copy the code.
